@@ -1,0 +1,2 @@
+SELECT "Country of Operator/Owner", "Current Official Name of Satellite" FROM DB WHERE "Country/Org of UN Registry" == "Mexico";
+q

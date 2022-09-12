@@ -1,0 +1,2 @@
+select "current official name of satellite", "class of orbit", "launch mass (kg.)" from db where "launch mass (kg.)" >= "7,000" or " dry mass (kg.) " <= "30";
+q

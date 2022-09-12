@@ -1,0 +1,3 @@
+SELECT * FROM DB WHERE "Country of Operator/Owner" == "Russia/USA" OR "Operator/Owner" == "Rocket Labs " OR "Operator/Owner" == "Wakanda";
+q
+select * from db where "country of operator/owner" == "russia/usa" or "operator/owner" == "rocket labs " or "operator/owner" == "wakanda";
