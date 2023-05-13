@@ -1,9 +1,3 @@
-/*
-    Name: Pandora Nheik, 2001846636, 1002, Assignment 1
-    Description: SQL query interpreter
-    Input: SQL Syntax with column names ecapsulated in quotes
-    Output: Columns of data/rows
-*/
 #include <iostream>
 #include <string>
 #include <fstream>
